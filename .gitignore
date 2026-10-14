@@ -1,0 +1,10 @@
+node_modules/
+dist/
+dist-electron/
+release/
+/release-validation/
+.test-build/
+/toolchain/downloads/
+/toolchain/mingit/
+*.log
+.DS_Store
